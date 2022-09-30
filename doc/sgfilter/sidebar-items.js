@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["sgfilter","Savitzky-Golay Filter SUPER This is for my docs"]]});
